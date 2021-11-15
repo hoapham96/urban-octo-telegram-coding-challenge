@@ -19,4 +19,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
  
+<<<<<<< Updated upstream
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/89959754/141720252-fd13e52e-72af-4956-b4d7-f7f76e9fbe0a.png)
+=======
+>>>>>>> Stashed changes
