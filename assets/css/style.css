@@ -60,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* content edits */
 
 .float-left {
     float: left;
@@ -70,7 +71,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* content edits */
 
 .content {
     width: 75%;
